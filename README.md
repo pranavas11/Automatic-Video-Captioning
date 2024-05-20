@@ -7,7 +7,7 @@ Some simpler models have been executed as experiments, with and without adversar
 
 Here, notebooks to run the CNN-LSTM and evaluation metrics are included. The LLaVA model was tested directly through its published UI. 
 
-For more information on my research and findings, read [my paper](https://github.com/pranavas11/Automatic-Video-Captioning/blob/main/Automatic%20Video%20Captioning.pdf).
+For more information on my research and findings, read [my paper](https://github.com/pranavas11/Automatic-Video-Captioning/blob/main/Automatic%20Video%20Captioning.pdf) and [project presentation](https://github.com/pranavas11/Automatic-Video-Captioning/blob/main/AVC%20Presentation.pdf).
 
 ## Notebooks
 
